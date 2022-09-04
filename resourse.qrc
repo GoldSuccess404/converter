@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/icon.png</file>
+        <file>img/background.jpg</file>
+        <file>img/amd.png</file>
+        <file>img/aud.png</file>
+        <file>img/azn.png</file>
+        <file>img/bgn.png</file>
+        <file>img/brl.png</file>
+        <file>img/byn.png</file>
+        <file>img/cad.png</file>
+        <file>img/chf.png</file>
+        <file>img/cny.png</file>
+        <file>img/czk.png</file>
+        <file>img/dkk.png</file>
+        <file>img/eur.png</file>
+        <file>img/gbp.png</file>
+        <file>img/hkd.png</file>
+        <file>img/huf.png</file>
+        <file>img/inr.png</file>
+        <file>img/jpy.png</file>
+        <file>img/kgs.png</file>
+        <file>img/krw.png</file>
+        <file>img/kzt.png</file>
+        <file>img/mdl.png</file>
+        <file>img/nok.png</file>
+        <file>img/pln.png</file>
+        <file>img/ron.png</file>
+        <file>img/rus.png</file>
+        <file>img/sek.png</file>
+        <file>img/sgd.png</file>
+        <file>img/tjs.png</file>
+        <file>img/tmt.png</file>
+        <file>img/try.png</file>
+        <file>img/uah.png</file>
+        <file>img/usd.png</file>
+        <file>img/uzs.png</file>
+        <file>img/zar.png</file>
+    </qresource>
+</RCC>
